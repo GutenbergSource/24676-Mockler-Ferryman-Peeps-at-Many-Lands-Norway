@@ -1,0 +1,42 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/backcover.jpg" filesize="35473" filedate="2008-02-23 20:19:42" width="505px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="85614" filedate="2005-12-22 22:34:56" width="517px" height="720px">
+</image>
+<image path="images/map.gif" filesize="56257" filedate="2008-02-23 19:17:31" width="698px" height="720px">
+</image>
+<image path="images/p00.jpg" filesize="92953" filedate="2005-12-26 10:43:41" width="506px" height="720px">
+</image>
+<image path="images/p01.jpg" filesize="104088" filedate="2005-12-22 22:38:10" width="546px" height="720px">
+</image>
+<image path="images/p09.jpg" filesize="97089" filedate="2005-12-22 22:39:41" width="528px" height="720px">
+</image>
+<image path="images/p16.jpg" filesize="85181" filedate="2005-12-26 10:42:03" width="527px" height="720px">
+</image>
+<image path="images/p25.jpg" filesize="103634" filedate="2005-12-26 10:40:11" width="529px" height="720px">
+</image>
+<image path="images/p32.jpg" filesize="91860" filedate="2005-12-26 10:38:12" width="530px" height="720px">
+</image>
+<image path="images/p41.jpg" filesize="73520" filedate="2005-12-26 10:36:37" width="720px" height="499px">
+</image>
+<image path="images/p48.jpg" filesize="91317" filedate="2005-12-26 10:33:07" width="720px" height="503px">
+</image>
+<image path="images/p57.jpg" filesize="95380" filedate="2005-12-26 10:30:39" width="720px" height="509px">
+</image>
+<image path="images/p64.jpg" filesize="92538" filedate="2005-12-26 10:27:59" width="720px" height="498px">
+</image>
+<image path="images/p73.jpg" filesize="98164" filedate="2005-12-26 10:24:08" width="528px" height="720px">
+</image>
+<image path="images/p80.jpg" filesize="95872" filedate="2005-12-26 10:18:09" width="720px" height="528px">
+</image>
+<image path="images/spine.jpg" filesize="13139" filedate="2008-02-23 20:15:28" width="91px" height="720px">
+</image>
+<image path="images/titlepage.gif" filesize="43438" filedate="2008-02-23 20:10:31" width="498px" height="720px">
+</image>
+</images>
